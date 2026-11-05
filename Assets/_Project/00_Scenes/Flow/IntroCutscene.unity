@@ -470,7 +470,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &757331506
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -593,8 +593,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 60, y: 50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: 180, y: 60}
+  m_SizeDelta: {x: 341.298, y: 141.56}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &907461284
 GameObject:
@@ -960,8 +960,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -60, y: 50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: -180, y: 60}
+  m_SizeDelta: {x: 341.299, y: 127.917}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &1314167295
 MonoBehaviour:
@@ -1104,8 +1104,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -60, y: -50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_AnchoredPosition: {x: -180, y: -32}
+  m_SizeDelta: {x: 341.3, y: 143.83}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1314353523
 MonoBehaviour:
@@ -1252,8 +1252,12 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 6bdedb0d369daad439734164b67dee1b, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 44d5214871c9d184eb7c5f91b0ba6994, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: d7b045af8506edc4ca905d690f861b97, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
 --- !u!4 &1646451967
