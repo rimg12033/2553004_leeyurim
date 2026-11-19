@@ -442,8 +442,14 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: bd4e487596346b540a82b16529b6e54e, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
-    video: {fileID: 32900000, guid: 60ff7083d12c0a74780e85292f4276f1, type: 3}
+  - image: {fileID: 21300000, guid: cf28263a33e14fb4ca00ac2da7e806de, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: f78ef269882215d4e82b975dc0099e53, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: 92ec8c2ff9f37ee4e9716a7825f40cfe, type: 3}
+    video: {fileID: 0}
+  - image: {fileID: 21300000, guid: f30a2f374c4fe4d47ad2235bd03aa263, type: 3}
+    video: {fileID: 0}
   prevButtonObject: {fileID: 2032162175}
   nextSceneName: Title
 --- !u!4 &420365790
